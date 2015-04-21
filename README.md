@@ -9,7 +9,7 @@ Including:
 * original image: `original-teal.jpg`
 * `glyphter-font/` for generated fonts
 
-Demo: teal.github.io/logo/fonts/
+Demo: http://teal.github.io/Logo/fonts/
 
 Fonts generated at: http://glyphter.com/
 
